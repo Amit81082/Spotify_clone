@@ -47,7 +47,7 @@ Spotify-Clone/
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/spotify-clone.git
+   git clone https://github.com/Amit81082/spotify-clone.git
    ```
 2. **Navigate to the project folder**
    ```sh
