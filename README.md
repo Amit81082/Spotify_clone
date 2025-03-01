@@ -7,8 +7,10 @@
 Welcome to **Spotify Clone**, a simple yet powerful music player built using **HTML, CSS, and JavaScript**. This project allows users to play, pause and seek songs seamlessly, mimicking the core functionality of Spotify. 🎶
 
 ## Screenshots 📷 -
-![image](https://github.com/user-attachments/assets/b5739b51-39be-4559-b81a-86d192060b72)
-![image](https://github.com/user-attachments/assets/3e90ea5f-aa4a-4888-834c-0e5e4bdf73b1)
+
+![image](https://github.com/user-attachments/assets/533be67d-6365-4e93-b58c-69231ea79698)
+![image](https://github.com/user-attachments/assets/cc36fea6-8a29-4f26-9a6e-9377b34e9a3a)
+
 
 
 ---
