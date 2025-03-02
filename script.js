@@ -23,6 +23,12 @@ let songs = [
     {songName: "Tumhari Kasam - Salam-e-Ishq", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
     {songName: "Na Jaana - Salam-e-Ishq", filePath: "songs/10.mp3", coverPath: "covers/10.jpg"},
 ];
+songs.push({
+    songName: "Ae Dil Hai Mushkil",
+    filePath: "songs/11.mp3",
+    coverPath: "covers/11.jpg"
+});
+
 
 // Update song list UI
 songItems.forEach((element, i) => {
