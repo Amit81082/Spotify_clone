@@ -180,3 +180,13 @@ audioElement.addEventListener('ended', () => {
         nextBtn.click(); // Play Next Song
     }
 });
+masterPlay.addEventListener("click", () => {
+    audioElement.play().catch(error => {
+        console.log("Playback error:", error);
+    });
+});
+masterPlay.addEventListener("click", () => {
+    audioElement.volume = 1;  // iOS ke liye fix
+    audioElement.play();
+});
+
